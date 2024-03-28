@@ -11,6 +11,7 @@ Changelog
 * |:wrench:| MAINT: Fix deprecated sphinx.testing.path
   `#83 <https://github.com/jdillard/sphinx-sitemap/pull/83>`_
 * Drop test support for Sphinx 2, 3, and 4.
+* NEW: Added sitemap_suffix_included.
 
 2.5.1
 -----
